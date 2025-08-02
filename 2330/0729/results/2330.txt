@@ -1,0 +1,25 @@
+IS: nan
+RIC: 0.025899041
+MAE: nan
+RMSE: nan
+
+IS: nan
+RIC: 0.12593782
+MAE: nan
+RMSE: nan
+
+IS: nan
+RIC: 0.0148017015
+MAE: nan
+RMSE: nan
+
+IS: -0.06751063
+RIC: -0.042280722
+MAE: 0.017742652
+RMSE: 0.024415929
+
+IS: nan
+RIC: -0.047108322
+MAE: nan
+RMSE: nan
+
